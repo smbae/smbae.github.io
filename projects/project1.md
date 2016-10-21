@@ -1,7 +1,7 @@
 ---
 layout: project
-title: "Project 1"
-description: "Description of Project #1"
+title: "Blog"
+description: "It's the Little Things That Count"
 header-img: "img/home-bg.jpg"
 category: project1
 ---
